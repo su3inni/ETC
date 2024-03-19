@@ -12,6 +12,7 @@
 ## CRM 
 > 사용자를 위해 인공지능과 대용량 데이터를 어떻게 활용할 수 있으며 발생할 수 있는 문제와 고려해야하는 윤리적인 부분이 무엇인지
 
-## Cloud 
+## Cloud / Infra
 > 확장성, 유연성, 비용 효율성의 강점을 가진 클라우드 현명하게 사용하기
 + [안전한 S3 사용방법 : woowahan](https://github.com/su3inni/interested/issues/15)
++ [인프라 확장을 위한 VM 사용시 주의점 : LY corp ](https://github.com/su3inni/interested/issues/19)
