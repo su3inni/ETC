@@ -3,6 +3,7 @@
 + [ML모델/거대모델을 특정 서비스에 도입할때 고려한 부분,발생하는 문제점, 해결방법까지 : LY Corp](https://github.com/su3inni/interested/issues/12)
 + [Federated Learning을 이용한 추천 : LY Corp](https://github.com/su3inni/interested/issues/13)
 + [MLOps와 ML Pipeline이 무엇인지 MLOps 플랫폼인 MLU를 통해 파악하기 : LY Corp](https://github.com/su3inni/interested/issues/16)
++ [AI Safety 이해를 위한 용어 : Naver CH.TECH ](https://github.com/su3inni/interested/issues/20)
 
 ## Data 
 > 현업에서 사용하는 데이터의 수와 대용량 데이터를 잘 활용하기위한 방법은 무엇인지
