@@ -17,3 +17,4 @@
 > 확장성, 유연성, 비용 효율성의 강점을 가진 클라우드 현명하게 사용하기
 + [안전한 S3 사용방법 : woowahan](https://github.com/su3inni/interested/issues/15)
 + [인프라 확장을 위한 VM 사용시 주의점 : LY corp ](https://github.com/su3inni/interested/issues/19)
++ [서버 증설없이 처리하는 대규모 트래픽 : TossTech](https://github.com/su3inni/interested/issues/21)
