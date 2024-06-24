@@ -9,7 +9,7 @@
 > 현업에서 사용하는 데이터의 수와 대용량 데이터를 잘 활용하기위한 방법은 무엇인지
 + [인공지능에 사용하는 Data Quality 의 중요성](https://github.com/su3inni/interested/issues/10)
 + [사용자 수에 따른 시스템 규모 확장성](https://github.com/su3inni/interested/issues/6)
-
++ [존재하는 회원 데이터가 다른 서비스에서 조회되지 않는 문제](https://github.com/su3inni/interested/issues/24)
 ## CRM 
 > 사용자를 위해 인공지능과 대용량 데이터를 어떻게 활용할 수 있으며 발생할 수 있는 문제와 고려해야하는 윤리적인 부분이 무엇인지
 
